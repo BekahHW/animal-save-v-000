@@ -10,8 +10,8 @@ html {
 
 /* Write your solution here */
 
-@media screen and (max-width: 1090px) and (min-width: 642px) {
-  #dolphin {
-    top: 113px;
+@media screen and (max-width: 1090px) and (min-width: 400px) {
+  #ostrich {
+    top: 0px;
   }
 }
