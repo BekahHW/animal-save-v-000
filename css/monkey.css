@@ -12,7 +12,6 @@ html {
 
 @media screen and (max-width: 1170px) and (min-width: 406px) {
   #monkey {
-  transform: rotate(1.0turn);
-  top: 113px;
+  top: 150px;
   }
 }
